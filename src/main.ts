@@ -15,7 +15,7 @@ import './generics/3.ts';
 import './generics/4.ts';
 import './generics/5.ts';
 import './generics/6.ts';
-import './generics/7.ts';
+
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
