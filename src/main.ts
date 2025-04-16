@@ -17,7 +17,6 @@ import './generics/5.ts';
 import './generics/6.ts';
 
 
-
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     <a href="https://vite.dev" target="_blank">
